@@ -1,2 +1,2 @@
 # DataCamp_courses
-This repository gives an overview of some of the Data science courses I took on Datacamp
+This repository contains visualization of datasets gotten from www.kaggle.com/datasets
