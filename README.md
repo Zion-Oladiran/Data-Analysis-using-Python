@@ -1,2 +1,2 @@
 # Data Analysis using Python
-This repository contains visualization of datasets gotten from www.kaggle.com/datasets
+This repository contains Analysis and visualization of datasets using Python Programming Language
